@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+DEMO: https://codesandbox.io/s/react-state-with-simplified-combine-reducers-ox1df
+
 ## Available Scripts
 
 In the project directory, you can run:
