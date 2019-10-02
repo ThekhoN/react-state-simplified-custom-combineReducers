@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Goal: Use a single Provider for the application state.
+
 DEMO: https://codesandbox.io/s/react-state-with-simplified-combine-reducers-ox1df
 
 ## Available Scripts
